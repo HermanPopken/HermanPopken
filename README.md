@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HermanPopken
-- 👀 I’m interested in Javascript.
+- 👀 I’m interested in HTML, CSS, Javascript, PHP & MySQLI.
 - 🌱 I’m currently learning HTML, CSS and Javascript.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 harm.popken@outlook.com
 
 <!---
 HermanPopken/HermanPopken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
